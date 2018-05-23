@@ -1,6 +1,2 @@
-echo "# grunt-buddha-gt2016" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/GT-2016/grunt-buddha-gt2016.git
-git push -u origin master
+python自带的unittest进行web或接口自动化测试。ddt数据驱动，Excel管理测试用例
+log 测试日志分装类，接口LogPrint
