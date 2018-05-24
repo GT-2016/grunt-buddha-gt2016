@@ -1,2 +1,9 @@
 python自带的unittest进行web或接口自动化测试。ddt数据驱动，Excel管理测试用例
+case 测试用例，excel格式
+common 测试调用的公共方法
 log 测试日志分装类，接口LogPrint
+page 测试页，包括注册、登录，按页面或模块划分
+report 测试报告
+shot 测试截图
+suites 测试用例unittest集
+run_all_test.py 执行脚本
