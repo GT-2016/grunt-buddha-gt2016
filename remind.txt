@@ -7,3 +7,6 @@ report 测试报告
 shot 测试截图
 suites 测试用例unittest集
 run_all_test.py 执行脚本
+
+
+注：dj_priject（Django工程 dj项目）
