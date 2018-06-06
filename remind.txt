@@ -10,3 +10,6 @@ run_all_test.py 执行脚本
 
 
 注：dj_priject（Django工程 dj项目）
+
+common中的方法封装具体也可
+参考：https://github.com/easonhan007/webdriver_guide.git

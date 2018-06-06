@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Django 登录页面测试</title>
+</head>
+<body>
+	<h1>发布会管理</h1>
+	<form method="post" action="/login_action/">
+		<input name="user" type="text" placeholder="username">
+		<input name="passwd" type="text" placeholder="password"></br>
+		{{ error }}</br>{{ user }}</br>{{ passwd }}</br>
+		
+		<button id="btn" type="submit">login</button>
+		{% csrf_token %}
+	</form>
+</body>
+<style type="text/css">
+
+</style>
+</html>
